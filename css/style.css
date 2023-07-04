@@ -1,0 +1,15 @@
+.hidden{
+    display: none;
+}
+img{
+    width:50vw;
+    height: 50vh;
+}
+li{
+    list-style-type:circle;
+}
+li::marker{
+    color: tomato;
+    font-size: 1em;
+    font-weight: bold;
+}
